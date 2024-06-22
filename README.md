@@ -26,16 +26,17 @@ CredKart is a web application designed to streamline your daily expense manageme
 ## Technical Specifications:
 
 - **Frontend:** 
-  - Angular CLI version 14.2.8 ![Angular Logo](https://img.shields.io/badge/Angular-14.2.8-red?logo=angular&style=flat&logoColor=white)
+  -  ![Angular Logo](https://img.shields.io/badge/Angular-14.2.8-red?logo=angular&style=flat&logoColor=white)
   - Angular Material
-  - HTML5 ![HTML5 Logo](https://img.shields.io/badge/HTML5-latest-orange?logo=html5&style=flat&logoColor=white)
-  - CSS ![CSS Logo](https://img.shields.io/badge/CSS-latest-blue?logo=css3&style=flat&logoColor=white)
-  - Angular Toaster for toast notifications ![Angular Toaster Logo](https://img.shields.io/badge/Toaster-Component-007bff?style=flat&logo=angular&logoColor=white)
-- **Backend:** ![JSON Server Logo](https://img.shields.io/badge/JSON_Server-latest-lightgrey?logo=json&style=flat&logoColor=white)
-  - JSON Server, now hosted on Render ![Render Logo](https://img.shields.io/badge/Render-hosted-blue?logo=render&style=flat&logoColor=white)
-  - Node.js ![Node.js Logo](https://img.shields.io/badge/Node.js-latest-green?logo=node.js&style=flat&logoColor=white)
+  -  ![HTML5 Logo](https://img.shields.io/badge/HTML5-latest-orange?logo=html5&style=flat&logoColor=white)
+  -  ![CSS Logo](https://img.shields.io/badge/CSS-latest-blue?logo=css3&style=flat&logoColor=white)
+  -  ![Angular Toaster Logo](https://img.shields.io/badge/Toaster-Component-007bff?style=flat&logo=angular&logoColor=white)
+- **Backend:** 
+  - ![JSON Server Logo](https://img.shields.io/badge/JSON_Server-latest-lightgrey?logo=json&style=flat&logoColor=white)
+  -  ![Render Logo](https://img.shields.io/badge/Render-hosted-blue?logo=render&style=flat&logoColor=white)
+  -  ![Node.js Logo](https://img.shields.io/badge/Node.js-latest-green?logo=node.js&style=flat&logoColor=white)
 - **UI Framework:** 
-  - Bootstrap ![Bootstrap Logo](https://img.shields.io/badge/Bootstrap-5.0-purple?logo=bootstrap&style=flat&logoColor=white)
+  -  ![Bootstrap Logo](https://img.shields.io/badge/Bootstrap-5.0-purple?logo=bootstrap&style=flat&logoColor=white)
 - **Data Visualization:** 
   - Jspdf
 - **Animations:**
