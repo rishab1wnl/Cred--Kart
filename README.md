@@ -27,7 +27,7 @@ CredKart is a web application designed to streamline your daily expense manageme
 
 - **Frontend:** 
   -  ![Angular Logo](https://img.shields.io/badge/Angular-14.2.8-red?logo=angular&style=flat&logoColor=white)
-  - Angular Material
+  -  ![Angular Material Logo](https://img.shields.io/badge/Angular_Material-latest-blue?logo=angular&style=flat&logoColor=white)
   -  ![HTML5 Logo](https://img.shields.io/badge/HTML5-latest-orange?logo=html5&style=flat&logoColor=white)
   -  ![CSS Logo](https://img.shields.io/badge/CSS-latest-blue?logo=css3&style=flat&logoColor=white)
   -  ![Angular Toaster Logo](https://img.shields.io/badge/Toaster-Component-007bff?style=flat&logo=angular&logoColor=white)
@@ -38,11 +38,11 @@ CredKart is a web application designed to streamline your daily expense manageme
 - **UI Framework:** 
   -  ![Bootstrap Logo](https://img.shields.io/badge/Bootstrap-5.0-purple?logo=bootstrap&style=flat&logoColor=white)
 - **Data Visualization:** 
-  - Jspdf
+  - ![Jspdf Logo](https://img.shields.io/badge/Jspdf-Visualization-ffb6c1?logo=jspdf&style=flat&logoColor=white)
 - **Animations:**
-  - Lordicon
+  - ![Lordicon Logo](https://img.shields.io/badge/Lordicon-Animations-ff7f50?logo=lordicon&style=flat&logoColor=white)
 - **Fonts:**
-  - Google Fonts
+  - ![Google Fonts Logo](https://img.shields.io/badge/Google_Fonts-Text-4682b4?logo=google-fonts&style=flat&logoColor=white)
 
 ## Getting Started:
 
