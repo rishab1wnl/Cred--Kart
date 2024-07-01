@@ -58,3 +58,5 @@ CredKart is a web application designed to streamline your daily expense manageme
 **Note:** Every time a user adds, updates, or deletes any data from the dashboard, the page automatically refreshes after 0.5 seconds to load the new data.
 
 **Let CredKart empower you to take control of your finances!**
+> *This project was developed with ❤️ and ☕.*
+
